@@ -6,6 +6,8 @@
   # Use https://search.nixos.org/packages to find packages
   packages = [
     pkgs.clang_17
+    pkgs.cmake
+    pkgs.gnumake42
     # pkgs.go
     # pkgs.python311
     # pkgs.python311Packages.pip
